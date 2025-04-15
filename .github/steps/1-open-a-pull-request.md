@@ -6,7 +6,7 @@
   Encourage users to open new tabs for steps!
 -->
 
-# Step 1: Setting Up GitHub Discussions ⚙️💬
+# Step 1: Setting Up GitHub Discussions 💬
 
 ## 📌 Objective  
 Enable the Discussions feature on your repository so you can collaborate through posts and threads.
